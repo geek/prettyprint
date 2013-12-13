@@ -1,0 +1,30 @@
+{
+  "name": "prettyprint",
+  "description": "Pretty print JSON streams",
+  "version": "0.0.1",
+  "repository": "git://github.com/wpreul/prettyprint",
+  "main": "index",
+  "keywords": [
+    "JSON",
+    "prettyprint"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "bin": {
+    "prettyprint": "./cli.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lab": "1.x.x"
+  },
+  "scripts": {
+    "test": "make test-cov"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wpreul/prettyprint/raw/master/LICENSE"
+    }
+  ]
+}
