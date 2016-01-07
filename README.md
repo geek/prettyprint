@@ -3,7 +3,7 @@ prettyprint
 
 Takes a JSON stream and outputs a JSON prettyprint stream
 
-[![Build Status](https://secure.travis-ci.org/wpreul/prettyprint.png)](http://travis-ci.org/wpreul/prettyprint)
+[![Build Status](https://secure.travis-ci.org/geek/prettyprint.png)](http://travis-ci.org/geek/prettyprint)
 
 [![NPM](https://nodei.co/npm/prettyprint.png?downloads=true)](https://nodei.co/npm/prettyprint/)
 
